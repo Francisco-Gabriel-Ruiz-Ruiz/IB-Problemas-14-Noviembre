@@ -20,4 +20,4 @@ Introduzca un año (en forma numérica y como número natural. Por ejemplo: 2023
 
 ## F2-Compare__two_text_files
 
-Introduzca el nombre de dos archivos de texto distintos y el programa le indicará en qué líneas ha encontrado diferencias (entre ambos archivos). Se propone el uso de dos parejas de archivos, `quijote1.txt` junto con `quijote2.txt` y `supermercado1.txt` y `supermercado2.txt`. Si lo desea, puede crear sus propios archivos o modificar los ya propuestos.
+Introduzca el nombre de dos archivos de texto distintos y el programa le indicará en qué líneas ha encontrado diferencias (entre ambos archivos). Se propone el uso de dos parejas de archivos, `quijote1.txt` junto con `quijote2.txt` y `supermercado1.txt` junto con `supermercado2.txt`. Si lo desea, puede crear sus propios archivos o modificar los ya propuestos.
